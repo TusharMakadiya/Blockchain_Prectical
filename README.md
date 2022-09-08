@@ -1,1 +1,1 @@
-# Blockchain_Prectical
+# Blockchain_Practical
